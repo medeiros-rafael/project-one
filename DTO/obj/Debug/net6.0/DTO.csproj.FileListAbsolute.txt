@@ -1,0 +1,12 @@
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\bin\Debug\net6.0\DTO.dll
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\obj\Debug\net6.0\DTO.dll
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\DTO\obj\Debug\net6.0\ref\DTO.dll

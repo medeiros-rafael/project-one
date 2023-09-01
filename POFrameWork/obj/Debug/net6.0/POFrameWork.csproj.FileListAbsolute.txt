@@ -1,0 +1,12 @@
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\bin\Debug\net6.0\POFrameWork.deps.json
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\bin\Debug\net6.0\POFrameWork.dll
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\bin\Debug\net6.0\POFrameWork.pdb
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\obj\Debug\net6.0\POFrameWork.csproj.AssemblyReference.cache
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\obj\Debug\net6.0\POFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\obj\Debug\net6.0\POFrameWork.AssemblyInfoInputs.cache
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\obj\Debug\net6.0\POFrameWork.AssemblyInfo.cs
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\obj\Debug\net6.0\POFrameWork.csproj.CoreCompileInputs.cache
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\obj\Debug\net6.0\POFrameWork.dll
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\obj\Debug\net6.0\refint\POFrameWork.dll
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\obj\Debug\net6.0\POFrameWork.pdb
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\POFrameWork\obj\Debug\net6.0\ref\POFrameWork.dll
